@@ -1,0 +1,1 @@
+<p>Cấm truy cập khi không phải là admin</p>
